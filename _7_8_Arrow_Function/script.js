@@ -147,7 +147,7 @@ box.addEventListener("click", function () {
     // dua = temp;
 
     // satu diisi dua, dua diisi satu
-    [satu, dua] = [dua, satu]
+    [satu, dua] = [dua, satu];
   }
 
   this.classList.toggle(satu);
